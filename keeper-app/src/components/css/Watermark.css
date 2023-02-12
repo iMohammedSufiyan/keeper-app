@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+.watermark {
+  color: #9aa0a6;
+  cursor: default;
+  font-family: "Google Sans", Roboto, Arial, sans-serif;
+  font-size: 1.375rem;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 1.75rem;
+}

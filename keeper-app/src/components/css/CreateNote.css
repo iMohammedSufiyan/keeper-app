@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+.note-wrapper {
+  box-shadow: 0 0 0.5rem black;
+}
+
+input,
+textarea {
+  border: none;
+  outline: none;
+  padding: 1rem;
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: gray;
+  font-weight: bold;
+}
+
+input {
+  border-radius: 1rem 1rem 0 0;
+  height: 3rem;
+  caret-color: white;
+}
+
+textarea {
+  border-radius: 0 0 1rem 1rem;
+  resize: none;
+}
+
+textarea::-webkit-scrollbar {
+  width: 0;
+}
+
+.btn {
+  font-family: "Roboto", sans-serif;
+  outline: none;
+  border: none;
+  color: #dadce0;
+  padding-top: -5rem;
+  padding-bottom: -5rem;
+}
+.btn:hover {
+  background-color: #404040;
+}

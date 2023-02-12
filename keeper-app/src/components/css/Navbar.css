@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+.navbar {
+  width: 100%;
+}
+
+.navbar-brand {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.8rem;
+  margin-top: 0.5vh;
+  padding: 0;
+  text-decoration: none;
+}

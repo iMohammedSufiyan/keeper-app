@@ -1,0 +1,14 @@
+.container-fluid {
+  height: auto;
+}
+
+.area-cover-div {
+  height: 13vh;
+}
+
+.d-flex {
+  row-gap: 1.5vh;
+  column-gap: 1.5vh;
+  justify-content: space-between;
+  align-content: stretch;
+}

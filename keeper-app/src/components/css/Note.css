@@ -1,0 +1,12 @@
+.card {
+  width: 18rem;
+}
+
+.delete-button {
+  visibility: hidden;
+}
+
+.card:hover .delete-button,
+.delete-button:hover {
+  visibility: visible;
+}
